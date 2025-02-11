@@ -1,5 +1,5 @@
-# Demand-Forecasting-and-Inventory-Optimization
-Mastering Demand Forecasting and Inventory Optimization 
+# Demand-Forecasting-and-Inventory-Optimization 
+Demand Forecasting and Inventory Optimization 
 Demand Forecasting and Inventory Optimization using Python 🚀
 
 Overview
@@ -36,17 +36,21 @@ Inventory Optimization ensures businesses maintain an optimal balance between su
 Key Strategies Implemented:
 
 Reorder Points 📌 – Determines when to place new orders
+
 Safety Stock 🛡 – Maintains buffer inventory for uncertainties
+
 Economic Order Quantity (EOQ) 📦 – Identifies the optimal order size
 
 📊 Step-by-Step Implementation
 
 1️⃣ Data Collection
 We start by collecting historical sales data, customer orders, and external factors like seasonality and promotions. The dataset used in this project contains:
-
 Date (Time period of sales)
+
 Demand (Units sold per day)
+
 Inventory (Stock levels over time)
+
 💾 Dataset: You can download the dataset here.
 
 2️⃣ Demand Forecasting Implementation
@@ -70,6 +74,7 @@ Optimal Order Quantity (EOQ)	236
 Reorder Point	235.25
 Safety Stock	114.45
 Total Inventory Cost	$561.80
+
 📌 Breakdown:
 
 EOQ (236 units): The ideal quantity to order when restocking.
