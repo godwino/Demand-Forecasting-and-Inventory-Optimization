@@ -85,18 +85,25 @@ Once we forecast demand, we apply inventory management strategies:
 Metric	Value
 
 Optimal Order Quantity (EOQ)	236
+
 Reorder Point	235.25
+
 Safety Stock	114.45
+
 Total Inventory Cost	$561.80
 
 📌 Breakdown:
 
 EOQ (236 units): The ideal quantity to order when restocking.
+
 Reorder Point (235.25 units): When inventory reaches this level, a new order is triggered.
+
 Safety Stock (114.45 units): Extra buffer stock to handle uncertainties.
+
 Total Cost ($561.80): Estimated cost of managing inventory efficiently.
 
 📌 Summary
+
 This project demonstrates how Demand Forecasting and Inventory Optimization can help businesses make data-driven inventory decisions. By accurately predicting demand and optimizing stock levels, companies can reduce costs, avoid stockouts, and enhance customer satisfaction.
 
 🚀 Key Takeaways:
