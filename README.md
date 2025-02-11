@@ -14,7 +14,9 @@ What is Demand Forecasting?
 Demand Forecasting is the process of predicting future customer orders based on historical sales data, market trends, seasonality, and other external factors. Accurate forecasting helps businesses:
 
 ✅ Improve resource allocation
+
 ✅ Avoid stock shortages and overstocking
+
 ✅ Enhance supply chain efficiency
 
 Techniques Used:
@@ -44,6 +46,7 @@ Economic Order Quantity (EOQ) 📦 – Identifies the optimal order size
 📊 Step-by-Step Implementation
 
 1️⃣ Data Collection
+
 We start by collecting historical sales data, customer orders, and external factors like seasonality and promotions. The dataset used in this project contains:
 Date (Time period of sales)
 
@@ -57,12 +60,14 @@ Inventory (Stock levels over time)
 Using SARIMA, we predict demand for the next 10 days.
 
 📌 Forecasted Demand Example:
+
 Date	Forecasted Demand
 2023-08-02	117
 2023-08-03	116
 2023-08-04	130
 2023-08-05	114
 2023-08-06	128
+
 📌 These predictions help businesses plan inventory restocking efficiently.
 
 3️⃣ Inventory Optimization Metrics
